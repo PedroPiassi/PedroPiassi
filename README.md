@@ -2,11 +2,11 @@
 
 <div>
   <p>
-    Olá! Sou Pedro, um estudante de 20 anos no 6º semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo - São Carlos. 
-    Atualmente, atuo como desenvolvedor full stack, trabalhando em projetos envolvendo ReactJS, React Native, Laravel e MySQL.
-    Tenho uma paixão especial pelo front-end, onde busco criar interfaces atraentes e funcionais que melhoram a experiência do usuário. Valorizo o trabalho em equipe e 
-    acredito que a comunicação eficaz é fundamental para o sucesso de qualquer projeto.
-    Além disso, tenho experiencias em metodologias ágeis, Docker, Git e NodeJs.
+    Olá! Sou Pedro, um estudante de 20 anos no 6º semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo - São Carlos.</br>
+    Atualmente, atuo como desenvolvedor full stack, trabalhando em projetos envolvendo ReactJS, React Native, Laravel e MySQL.</br>
+    Tenho uma paixão especial pelo front-end, onde busco criar interfaces atraentes e funcionais que melhoram a experiência do usuário.</br>
+    Valorizo o trabalho em equipe e acredito que a comunicação eficaz é fundamental para o sucesso de qualquer projeto.</br>
+    Além disso, tenho experiencias em metodologias ágeis, Docker, Git e NodeJs.</br>
     Estou sempre aberto a desafios e tecnologias novas. Agradeço por visitar o meu perfil e estou aberto a oportunidades de conexão e colaboração.
   </p>
 </div>
